@@ -1,1 +1,2 @@
-Hello! I am so happy ta start learning code. Hope it will be interesting!!!
+Hello! I am so happy to start learning code. Hope it will be interesting!!!
+I've never studied it before, that's why it is difficult for me now...
